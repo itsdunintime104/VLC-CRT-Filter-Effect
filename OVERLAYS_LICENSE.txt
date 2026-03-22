@@ -1,0 +1,18 @@
+TV Background Overlay Images License
+=====================================
+
+The PNG overlay images in the overlays/ directory are from:
+
+  Soqueroeu TV Backgrounds V2.0
+  https://github.com/soqueroeu/Soqueroeu-TV-Backgrounds_V2.0
+
+Their license terms (from the Soqueroeu repository README):
+
+  "This pack is free. You should not pay for anything related to this
+  graphics pack and shader preset. You may distribute and reproduce part
+  from this content, as long as you give credit to the authors involved.
+  You may not profit from the sale of products that contain material in
+  this package without the author's prior permission."
+
+These images are NOT covered by the LGPL v2.1+ license that governs the
+VLC plugin source code (crt_scanline.c, crt_scanline_controller.lua).

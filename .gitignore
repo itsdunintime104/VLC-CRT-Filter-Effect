@@ -1,0 +1,22 @@
+# Build artifacts
+build/*.dylib
+build/*.dll
+build/*.exp
+build/*.lib
+build/*.obj
+*.o
+*.pdb
+*.ilk
+
+# macOS
+.DS_Store
+
+# VLC SDK (downloaded by build script)
+/vlc-sdk/
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
